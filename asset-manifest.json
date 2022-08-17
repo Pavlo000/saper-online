@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/saper-online/static/css/main.bc91b108.css",
+    "main.js": "/saper-online/static/js/main.522ec3c9.js",
+    "static/js/787.b7ef552b.chunk.js": "/saper-online/static/js/787.b7ef552b.chunk.js",
+    "static/media/logo.svg": "/saper-online/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/saper-online/index.html",
+    "main.bc91b108.css.map": "/saper-online/static/css/main.bc91b108.css.map",
+    "main.522ec3c9.js.map": "/saper-online/static/js/main.522ec3c9.js.map",
+    "787.b7ef552b.chunk.js.map": "/saper-online/static/js/787.b7ef552b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc91b108.css",
+    "static/js/main.522ec3c9.js"
+  ]
+}
